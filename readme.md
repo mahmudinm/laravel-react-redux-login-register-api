@@ -1,3 +1,7 @@
+## BOILERPLATE FROM 
+* laravel-api - [francescomalatesta/laravel-api-boilerplate-jwt](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
+
+
 ## Laravel API Boilerplate (JWT Edition) for Laravel 5.6
 
 [![Build Status](https://travis-ci.org/francescomalatesta/laravel-api-boilerplate-jwt.svg?branch=master)](https://travis-ci.org/francescomalatesta/laravel-api-boilerplate-jwt)
